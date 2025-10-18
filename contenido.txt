@@ -1,0 +1,14 @@
+Testimonio 1
+“Me sorprendió lo bien estructurado que está el sitio. Todo se entiende fácilmente y la presentación es muy profesional. Se nota que hubo dedicación y cuidado en cada detalle. Realmente transmite pasión por lo que se hace y deja una excelente impresión desde el primer momento.”
+
+Testimonio 2
+“El contenido me pareció muy completo y útil. Explica los temas de una manera clara, sencilla y visualmente atractiva. Además, la organización facilita encontrar la información rápidamente. Felicitaciones por el trabajo, se nota el esfuerzo y la intención de ofrecer algo de calidad a los visitantes.”
+
+Testimonio 3
+“Me encantó la propuesta del sitio y la forma en que está presentada. Combina creatividad con una comunicación efectiva. Las secciones están bien equilibradas y cada parte aporta algo de valor. Definitivamente demuestra el talento y la dedicación del creador detrás del proyecto.”
+
+Testimonio 4
+“El diseño del sitio me pareció excelente: moderno, limpio y fácil de navegar. Cada sección tiene un propósito claro y la información está muy bien redactada. Es un proyecto que refleja compromiso y entusiasmo, algo que inspira confianza y deja una muy buena impresión.”
+
+Testimonio 5
+“Este sitio demuestra un gran nivel de profesionalismo y atención al detalle. El contenido está bien pensado, las imágenes son adecuadas y la experiencia de usuario es muy fluida. Sin duda, un trabajo muy bien logrado que merece ser reconocido por su calidad y presentación.”
